@@ -5,7 +5,7 @@ The TRUFFLE FRAMEWORK used in the application allows to write both the client si
 For client side :
 HTML CSS AND JAVASCRIPT
 
-For client side :
+For server side :
 ETHEREUM BLOCKCHAIN 
 
 Libraries used are :
